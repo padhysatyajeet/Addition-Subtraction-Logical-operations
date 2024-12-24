@@ -2,6 +2,7 @@
 For addition and subtraction , I have used the same circuit and the only change in carry_in.
 4 bit parallel full adder circuits are made.
 But for the second binary number,XOR Gate is used along with Carry_in as the other input.
+To control the input dip switches are used.
 1st no.-  A
 2nd no.-  B
 So, for addition carry_in=0 
