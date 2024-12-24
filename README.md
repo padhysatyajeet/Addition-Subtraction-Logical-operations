@@ -9,7 +9,7 @@ So, for addition carry_in=0
     B XOR 0 = B
     Here 2nd no. goes into the full adder circuit as it is.
      
-for subtraction carry_in=1
+For subtraction carry_in=1
     B XOR 1 = ~B
     Here 2nd no. goes into the full adder circuit as 2's complement of B.
  I have used common anode 7 segment display. The output of each LED will be 0 or 1. So,b,c segment of LED will always glow. If the output(sum) will be 0 then a,d,e,f segments of LEDs should glow. Or else if the output would be 1 ,then these segments should not glow. So,the outputs are connected to a,d,e,f segments of LEDs.
